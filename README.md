@@ -1,3 +1,5 @@
+A little bit updated and augmented by myself. All the right belongs to the original writer as below.
+
 # Python Data Science Handbook
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
