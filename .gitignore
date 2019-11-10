@@ -139,3 +139,5 @@ notebooks/data/FashionMNIST/raw/train-images-idx3-ubyte
 notebooks/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
 notebooks/data/FashionMNIST/raw/train-labels-idx1-ubyte
 notebooks/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
+notebooks/tree.dot.png
+notebooks/tree.dot
