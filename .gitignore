@@ -129,3 +129,13 @@ notebooks/data/cifar-10-batches-py/data_batch_4
 notebooks/data/cifar-10-batches-py/data_batch_5
 notebooks/data/cifar-10-batches-py/readme.html
 notebooks/data/cifar-10-batches-py/test_batch
+notebooks/data/FashionMNIST/processed/test.pt
+notebooks/data/FashionMNIST/processed/training.pt
+notebooks/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+notebooks/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+notebooks/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+notebooks/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+notebooks/data/FashionMNIST/raw/train-images-idx3-ubyte
+notebooks/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+notebooks/data/FashionMNIST/raw/train-labels-idx1-ubyte
+notebooks/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
